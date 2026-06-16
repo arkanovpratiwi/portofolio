@@ -1,10 +1,31 @@
+<div align="center">
+
 # ARKANANTI NOVIANITA PRATIWI
 
-**(+62) 82-265-222-407** | arkanov.pratiwi@gmail.com | [LinkedIn](https://www.linkedin.com/in/arkananti-novianita-pratiwi)
+[![Phone](https://img.shields.io/badge/Phone-%28%2B62%29_82--265--222--407-2563EB?style=for-the-badge)](tel:+6282265222407)
+[![Email](https://img.shields.io/badge/Email-arkanov.pratiwi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkanov.pratiwi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkananti-novianita-pratiwi)
+
+</div>
+
+---
+
+## Table of Contents
+
+- [Professional Summary](#professional-summary)
+- [Professional Experience](#professional-experience)
+- [Education](#education)
+- [Projects](#projects)
+- [Organizational Experience](#organizational-experience)
+- [Miscellaneous](#miscellaneous)
+
+---
 
 ## Professional Summary
 
-A Psychology graduate specializing in Industrial & Organizational Psychology from Airlangga University, Leverage expertise in human resources and business processes, demonstrated by hands-on experience in Marketing, Organizational Development, Talent Management, Training & Module Development, Psychological Assessment, and Recruitment. Active in event leadership, adept in problem-solving, and tech-savvy. Demonstrated commitment and motivation by consistently delivering high-quality, accurate work and actively seeking opportunities to learn and tackle new challenges.
+> A Psychology graduate specializing in Industrial & Organizational Psychology from Airlangga University, Leverage expertise in human resources and business processes, demonstrated by hands-on experience in Marketing, Organizational Development, Talent Management, Training & Module Development, Psychological Assessment, and Recruitment. Active in event leadership, adept in problem-solving, and tech-savvy. Demonstrated commitment and motivation by consistently delivering high-quality, accurate work and actively seeking opportunities to learn and tackle new challenges.
+
+---
 
 ## Professional Experience
 
@@ -42,6 +63,8 @@ A Psychology graduate specializing in Industrial & Organizational Psychology fro
 - Performed 6 kinds of psychometric assessment and scored them based on test norms; made data-driven decisions about candidate suitability in job recruitment.
 - Interpreted the assessment scores–related to forum group discussions (FGD), and interviews.
 
+---
+
 ## Education
 
 ### Universitas Airlangga — Bachelor of Psychology in Industrial & Organizational Psych.
@@ -50,6 +73,8 @@ A Psychology graduate specializing in Industrial & Organizational Psychology fro
 - Cum Laude Predicate Graduate Awardee 2024 by Airlangga University.
 - Thesis: The Dynamics of Subjective Well-Being on Long-Distance-Marriage Workers.
 - Relevant coursework: Psychological Measurement, Industrial & Organizational Psychology, Organizational Assessment & Intervention, Individual Development in Organizations, Groups in Organizations, Organizational Development, Entrepreneurial Psychology.
+
+---
 
 ## Projects
 
@@ -71,6 +96,8 @@ A Psychology graduate specializing in Industrial & Organizational Psychology fro
 - Explored psychological problems or phenomena that exist in companies using the STAR method through interviews with HR Operations to be analyzed based on HRM concepts.
 - Identified the application of HRM concepts in organizations that have carried out Operational HR based on Situational Appraisal information obtained from BEI interviews; provided feedback in the form of program suggestions to reduce employee turnover rates.
 
+---
+
 ## Organizational Experience
 
 ### Treasurer — Student Representative Council Faculty of Psychology Universitas Airlangga
@@ -85,12 +112,13 @@ A Psychology graduate specializing in Industrial & Organizational Psychology fro
 - Directed a team of 10 to execute 8 work programs, generating 20+ activities, achieving 80% benchmarks.
 - Fostered communication across 10+ stakeholders related to the programs, and enhanced team skills through 360-degree feedback.
 
+---
+
 ## Miscellaneous
 
-**Soft Skills:** Communication | Analytical and Problem Solving | Teamwork | Leadership | Drive and Initiative.
-
-**Hard Skills:** Microsoft Office | Google Suite | Canva | Psychological Assessment Tools.
-
-**Certifications:** Basic HRBP | HR Generalist | Strategic Human Resources | Ms. Excel | People Analytics | Talent Management.
-
-**Languages:** Indonesian (Native) | English (Professional Working Proficiency - ELPT: 563).
+| | |
+| :--- | :--- |
+| **Soft Skills** | Communication \| Analytical and Problem Solving \| Teamwork \| Leadership \| Drive and Initiative. |
+| **Hard Skills** | Microsoft Office \| Google Suite \| Canva \| Psychological Assessment Tools. |
+| **Certifications** | Basic HRBP \| HR Generalist \| Strategic Human Resources \| Ms. Excel \| People Analytics \| Talent Management. |
+| **Languages** | Indonesian (Native) \| English (Professional Working Proficiency - ELPT: 563). |
